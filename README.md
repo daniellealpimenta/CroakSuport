@@ -10,9 +10,7 @@ Este espaço foi criado para hospedar a documentação de privacidade necessári
 
 Você pode visualizar a página da nossa Política de Privacidade, hospedada diretamente pelo GitHub Pages, no link abaixo:
 
-### **[https://seu-usuario.github.io/nome-do-repositorio/](https://seu-usuario.github.io/nome-do-repositorio/)**
-
-> **Nota:** Lembre-se de substituir `seu-usuario` e `nome-do-repositorio` pelos seus dados corretos do GitHub!
+### **[https://daniellealpimenta.github.io/CroakSuport/suport)**
 
 ---
 
